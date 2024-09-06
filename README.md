@@ -26,9 +26,6 @@ This project is a Next.js application that integrates the `@upstash/rag-chat/nex
 3. **Set up environment variables in .env file:**
 
 ```bash
-   UPSTASH_REDIS_REST_URL=your_upstash_redis_rest_url
-   UPSTASH_REDIS_REST_TOKEN=your_upstash_redis_rest_token
-
    UPSTASH_VECTOR_REST_URL=your_upstash_vector_rest_url
    UPSTASH_VECTOR_REST_TOKEN=your_upstash_vector_rest_token
    QSTASH_TOKEN=your_qstach_token
